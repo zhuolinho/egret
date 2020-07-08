@@ -1,0 +1,490 @@
+{
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "snake_baoshixc1_mp3,snake_bgm1_mp3,snake_button1_mp3,snake_chibaoshi1_mp3,snake_daojishi1_mp3,snake_defeat1_mp3,snake_go1_mp3,snake_over1_mp3,snake_vslose1_mp3,snake_vswin1_mp3,shouji_0000_png,shouji_0001_png,shouji_0002_png,shouji_0003_png,TCS_BD_0000_png,TCS_BD_0001_png,TCS_BD_0002_png,TCS_BD_0003_png,TCS_BD_0004_png,TCS_BD_0005_png,chibaoshi_0000_png,chibaoshi_0001_png,chibaoshi_0002_png,chibaoshi_0003_png,chibaoshi_0004_png,chibaoshi_0005_png,TCS_XC_0000_png,TCS_XC_0001_png,TCS_XC_0002_png,TCS_XC_0003_png,TCS_XC_0004_png,TCS_XC_0005_png,TCS_XC_0006_png,TCS_XC_0007_png,body-1_png,dacha_png,gem-1_png,gem-2_png,gem-3_png,gem-4_png,gem-5_png,gem-6_png,gem1_png,gem2_png,gem3_png,gem4_png,gem5_png,gem6_png,head-1_png,head0_png,head1_png,head2_png,head3_png,stone1_png,stone2_png,tail-1_png,tail0_png,tail1_png,tail2_png,tail3_png,TCS_DK26_png,TCS_DK27_png,TCS_DK56_png,TCS_DK57_png,TCS_DK58_png,TCS_DK62_png,TCS_DK63_png,TCS_TB6_png,tcs_ui_bg_01_jpg,tcs_ui_bg_35_png,tcs_ui_font_34_png,tcs_ui_frame_17_png,TCS_WZ43_png,TCS_WZ45_png,TCS_DK51_png,TCS_DK52_png,TCS_WZ33_png,TCS_WZ34_png,TCS_WZ35_png,TCS_WZ54_png,xing_1_png,biaoti_1_png,clock_png,guang_1_png,TCS_AN4_png,TCS_DK10_png,TCS_DK30_png,TCS_DK45_png,TCS_DK60_png,TCS_TB1_png,btn1_png,btn2_png,guide4_png,guide1_png,guide2_png,guide3_png"
+		}
+	],
+	"resources": [
+		{
+			"name": "snake_baoshixc1_mp3",
+			"type": "sound",
+			"url": "sound/snake_baoshixc1.mp3"
+		},
+		{
+			"name": "snake_bgm1_mp3",
+			"type": "sound",
+			"url": "sound/snake_bgm1.mp3"
+		},
+		{
+			"name": "snake_button1_mp3",
+			"type": "sound",
+			"url": "sound/snake_button1.mp3"
+		},
+		{
+			"name": "snake_chibaoshi1_mp3",
+			"type": "sound",
+			"url": "sound/snake_chibaoshi1.mp3"
+		},
+		{
+			"name": "snake_daojishi1_mp3",
+			"type": "sound",
+			"url": "sound/snake_daojishi1.mp3"
+		},
+		{
+			"name": "snake_defeat1_mp3",
+			"type": "sound",
+			"url": "sound/snake_defeat1.mp3"
+		},
+		{
+			"name": "snake_go1_mp3",
+			"type": "sound",
+			"url": "sound/snake_go1.mp3"
+		},
+		{
+			"name": "snake_over1_mp3",
+			"type": "sound",
+			"url": "sound/snake_over1.mp3"
+		},
+		{
+			"name": "snake_vslose1_mp3",
+			"type": "sound",
+			"url": "sound/snake_vslose1.mp3"
+		},
+		{
+			"name": "snake_vswin1_mp3",
+			"type": "sound",
+			"url": "sound/snake_vswin1.mp3"
+		},
+		{
+			"name": "shouji_0000_png",
+			"type": "image",
+			"url": "ui/effect/BattleInjure/shouji_0000.png"
+		},
+		{
+			"name": "shouji_0001_png",
+			"type": "image",
+			"url": "ui/effect/BattleInjure/shouji_0001.png"
+		},
+		{
+			"name": "shouji_0002_png",
+			"type": "image",
+			"url": "ui/effect/BattleInjure/shouji_0002.png"
+		},
+		{
+			"name": "shouji_0003_png",
+			"type": "image",
+			"url": "ui/effect/BattleInjure/shouji_0003.png"
+		},
+		{
+			"name": "TCS_BD_0000_png",
+			"type": "image",
+			"url": "ui/effect/BodyRemove/TCS_BD_0000.png"
+		},
+		{
+			"name": "TCS_BD_0001_png",
+			"type": "image",
+			"url": "ui/effect/BodyRemove/TCS_BD_0001.png"
+		},
+		{
+			"name": "TCS_BD_0002_png",
+			"type": "image",
+			"url": "ui/effect/BodyRemove/TCS_BD_0002.png"
+		},
+		{
+			"name": "TCS_BD_0003_png",
+			"type": "image",
+			"url": "ui/effect/BodyRemove/TCS_BD_0003.png"
+		},
+		{
+			"name": "TCS_BD_0004_png",
+			"type": "image",
+			"url": "ui/effect/BodyRemove/TCS_BD_0004.png"
+		},
+		{
+			"name": "TCS_BD_0005_png",
+			"type": "image",
+			"url": "ui/effect/BodyRemove/TCS_BD_0005.png"
+		},
+		{
+			"name": "chibaoshi_0000_png",
+			"type": "image",
+			"url": "ui/effect/EatBonus/chibaoshi_0000.png"
+		},
+		{
+			"name": "chibaoshi_0001_png",
+			"type": "image",
+			"url": "ui/effect/EatBonus/chibaoshi_0001.png"
+		},
+		{
+			"name": "chibaoshi_0002_png",
+			"type": "image",
+			"url": "ui/effect/EatBonus/chibaoshi_0002.png"
+		},
+		{
+			"name": "chibaoshi_0003_png",
+			"type": "image",
+			"url": "ui/effect/EatBonus/chibaoshi_0003.png"
+		},
+		{
+			"name": "chibaoshi_0004_png",
+			"type": "image",
+			"url": "ui/effect/EatBonus/chibaoshi_0004.png"
+		},
+		{
+			"name": "chibaoshi_0005_png",
+			"type": "image",
+			"url": "ui/effect/EatBonus/chibaoshi_0005.png"
+		},
+		{
+			"name": "TCS_XC_0000_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0000.png"
+		},
+		{
+			"name": "TCS_XC_0001_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0001.png"
+		},
+		{
+			"name": "TCS_XC_0002_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0002.png"
+		},
+		{
+			"name": "TCS_XC_0003_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0003.png"
+		},
+		{
+			"name": "TCS_XC_0004_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0004.png"
+		},
+		{
+			"name": "TCS_XC_0005_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0005.png"
+		},
+		{
+			"name": "TCS_XC_0006_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0006.png"
+		},
+		{
+			"name": "TCS_XC_0007_png",
+			"type": "image",
+			"url": "ui/effect/StoneLineRemove/TCS_XC_0007.png"
+		},
+		{
+			"name": "body-1_png",
+			"type": "image",
+			"url": "ui/play/play/body-1.png"
+		},
+		{
+			"name": "dacha_png",
+			"type": "image",
+			"url": "ui/play/play/dacha.png"
+		},
+		{
+			"name": "gem-1_png",
+			"type": "image",
+			"url": "ui/play/play/gem-1.png"
+		},
+		{
+			"name": "gem-2_png",
+			"type": "image",
+			"url": "ui/play/play/gem-2.png"
+		},
+		{
+			"name": "gem-3_png",
+			"type": "image",
+			"url": "ui/play/play/gem-3.png"
+		},
+		{
+			"name": "gem-4_png",
+			"type": "image",
+			"url": "ui/play/play/gem-4.png"
+		},
+		{
+			"name": "gem-5_png",
+			"type": "image",
+			"url": "ui/play/play/gem-5.png"
+		},
+		{
+			"name": "gem-6_png",
+			"type": "image",
+			"url": "ui/play/play/gem-6.png"
+		},
+		{
+			"name": "gem1_png",
+			"type": "image",
+			"url": "ui/play/play/gem1.png"
+		},
+		{
+			"name": "gem2_png",
+			"type": "image",
+			"url": "ui/play/play/gem2.png"
+		},
+		{
+			"name": "gem3_png",
+			"type": "image",
+			"url": "ui/play/play/gem3.png"
+		},
+		{
+			"name": "gem4_png",
+			"type": "image",
+			"url": "ui/play/play/gem4.png"
+		},
+		{
+			"name": "gem5_png",
+			"type": "image",
+			"url": "ui/play/play/gem5.png"
+		},
+		{
+			"name": "gem6_png",
+			"type": "image",
+			"url": "ui/play/play/gem6.png"
+		},
+		{
+			"name": "head-1_png",
+			"type": "image",
+			"url": "ui/play/play/head-1.png"
+		},
+		{
+			"name": "head0_png",
+			"type": "image",
+			"url": "ui/play/play/head0.png"
+		},
+		{
+			"name": "head1_png",
+			"type": "image",
+			"url": "ui/play/play/head1.png"
+		},
+		{
+			"name": "head2_png",
+			"type": "image",
+			"url": "ui/play/play/head2.png"
+		},
+		{
+			"name": "head3_png",
+			"type": "image",
+			"url": "ui/play/play/head3.png"
+		},
+		{
+			"name": "stone1_png",
+			"type": "image",
+			"url": "ui/play/play/stone1.png"
+		},
+		{
+			"name": "stone2_png",
+			"type": "image",
+			"url": "ui/play/play/stone2.png"
+		},
+		{
+			"name": "tail-1_png",
+			"type": "image",
+			"url": "ui/play/play/tail-1.png"
+		},
+		{
+			"name": "tail0_png",
+			"type": "image",
+			"url": "ui/play/play/tail0.png"
+		},
+		{
+			"name": "tail1_png",
+			"type": "image",
+			"url": "ui/play/play/tail1.png"
+		},
+		{
+			"name": "tail2_png",
+			"type": "image",
+			"url": "ui/play/play/tail2.png"
+		},
+		{
+			"name": "tail3_png",
+			"type": "image",
+			"url": "ui/play/play/tail3.png"
+		},
+		{
+			"name": "TCS_DK26_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_DK26.png"
+		},
+		{
+			"name": "TCS_DK27_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_DK27.png"
+		},
+		{
+			"name": "TCS_DK56_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_DK56.png"
+		},
+		{
+			"name": "TCS_DK57_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_DK57.png"
+		},
+		{
+			"name": "TCS_DK58_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_DK58.png"
+		},
+		{
+			"name": "TCS_DK62_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_DK62.png"
+		},
+		{
+			"name": "TCS_DK63_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_DK63.png"
+		},
+		{
+			"name": "TCS_TB6_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_TB6.png"
+		},
+		{
+			"name": "tcs_ui_bg_01_jpg",
+			"type": "image",
+			"url": "ui/play/play/tcs_ui_bg_01.jpg"
+		},
+		{
+			"name": "tcs_ui_bg_35_png",
+			"type": "image",
+			"url": "ui/play/play/tcs_ui_bg_35.png"
+		},
+		{
+			"name": "tcs_ui_font_34_png",
+			"type": "image",
+			"url": "ui/play/play/tcs_ui_font_34.png"
+		},
+		{
+			"name": "tcs_ui_frame_17_png",
+			"type": "image",
+			"url": "ui/play/play/tcs_ui_frame_17.png"
+		},
+		{
+			"name": "TCS_WZ43_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_WZ43.png"
+		},
+		{
+			"name": "TCS_WZ45_png",
+			"type": "image",
+			"url": "ui/play/play/TCS_WZ45.png"
+		},
+		{
+			"name": "TCS_DK51_png",
+			"type": "image",
+			"url": "ui/result/TCS_DK51.png"
+		},
+		{
+			"name": "TCS_DK52_png",
+			"type": "image",
+			"url": "ui/result/TCS_DK52.png"
+		},
+		{
+			"name": "TCS_WZ33_png",
+			"type": "image",
+			"url": "ui/result/TCS_WZ33.png"
+		},
+		{
+			"name": "TCS_WZ34_png",
+			"type": "image",
+			"url": "ui/result/TCS_WZ34.png"
+		},
+		{
+			"name": "TCS_WZ35_png",
+			"type": "image",
+			"url": "ui/result/TCS_WZ35.png"
+		},
+		{
+			"name": "TCS_WZ54_png",
+			"type": "image",
+			"url": "ui/result/TCS_WZ54.png"
+		},
+		{
+			"name": "xing_1_png",
+			"type": "image",
+			"url": "ui/play/play/xing_1.png"
+		},
+		{
+			"name": "biaoti_1_png",
+			"type": "image",
+			"url": "ui/play/play/biaoti_1.png"
+		},
+		{
+			"name": "clock_png",
+			"type": "image",
+			"url": "ui/play/play/clock.png"
+		},
+		{
+			"name": "guang_1_png",
+			"type": "image",
+			"url": "ui/play/play/guang_1.png"
+		},
+		{
+			"name": "TCS_AN4_png",
+			"type": "image",
+			"url": "ui/common/TCS_AN4.png"
+		},
+		{
+			"name": "TCS_DK10_png",
+			"type": "image",
+			"url": "ui/common/TCS_DK10.png"
+		},
+		{
+			"name": "TCS_DK30_png",
+			"type": "image",
+			"url": "ui/common/TCS_DK30.png"
+		},
+		{
+			"name": "TCS_DK45_png",
+			"type": "image",
+			"url": "ui/common/TCS_DK45.png"
+		},
+		{
+			"name": "TCS_DK60_png",
+			"type": "image",
+			"url": "ui/common/TCS_DK60.png"
+		},
+		{
+			"name": "TCS_TB1_png",
+			"type": "image",
+			"url": "ui/common/TCS_TB1.png"
+		},
+		{
+			"name": "btn1_png",
+			"type": "image",
+			"url": "ui/guide/btn1.png"
+		},
+		{
+			"name": "btn2_png",
+			"type": "image",
+			"url": "ui/guide/btn2.png"
+		},
+		{
+			"name": "guide4_png",
+			"type": "image",
+			"url": "ui/guide/guide4.png"
+		},
+		{
+			"name": "guide1_png",
+			"type": "image",
+			"url": "ui/guide/guide1.png"
+		},
+		{
+			"name": "guide2_png",
+			"type": "image",
+			"url": "ui/guide/guide2.png"
+		},
+		{
+			"name": "guide3_png",
+			"type": "image",
+			"url": "ui/guide/guide3.png"
+		}
+	]
+}
