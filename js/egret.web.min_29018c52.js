@@ -363,7 +363,7 @@ var egret;
             (o.responseType = "arraybuffer"),
             (o.onreadystatechange = function () {
               if (4 == o.readyState) {
-                var t = o.status >= 400 || 0 == o.status;
+                var t = o.status >= 400;
                 t
                   ? a.dispatchEventWith(e.IOErrorEvent.IO_ERROR)
                   : (r.decodeArr.push({
@@ -986,7 +986,7 @@ var egret;
         (r.prototype.onReadyStateChange = function () {
           var t = this._xhr;
           if (4 == t.readyState) {
-            var r = t.status >= 400 || 0 == t.status,
+            var r = t.status >= 400,
               i = (this._url, this);
             window.setTimeout(function () {
               r

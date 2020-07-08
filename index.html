@@ -75,7 +75,7 @@
       };
 
       var xhr = new XMLHttpRequest();
-      xhr.open("GET", "./manifest.json?v=" + Math.random(), true);
+      xhr.open("GET", "./manifest.json", true);
       xhr.addEventListener("load", function () {
         var manifest = JSON.parse(xhr.response);
         var list = manifest.initial.concat(manifest.game);
@@ -108,10 +108,4 @@
       xhr.send(null);
     </script>
   </body>
-  <script src="./vconsole.min.js"></script>
-  <script>
-    // init vConsole
-    var vConsole = new VConsole();
-    console.log("Hello world");
-  </script>
 </html>
